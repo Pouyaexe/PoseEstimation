@@ -8,7 +8,7 @@ pose = mpPose.Pose()
  
 #cap = cv2.VideoCapture('PoseVideos/1.mp4')
 cap = cv2.VideoCapture(0)
-
+# 
 
 pTime = 0
 while True:
